@@ -69,3 +69,7 @@ p + p {
     legend {
         display: block;
     }
+
+    a {
+    text-decoration: none;
+   }
